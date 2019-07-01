@@ -1,5 +1,5 @@
-v=int(input(""))
+va=int(input(""))
 count=0
-while(count<v):
+while(count<va):
   count=count+1
-print('Hello')
+  print('Hello')
