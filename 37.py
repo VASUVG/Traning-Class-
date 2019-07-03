@@ -1,2 +1,2 @@
-vd=list(map(int,input().split()))
-print(vdi[1],i[0])
+v=list(map(int,input().split()))
+print(v[1],v[0])
