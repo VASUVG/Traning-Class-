@@ -1,0 +1,5 @@
+set=int(input())
+arr=list(map(int,input().split()[:s]))
+arr.sort()
+leng=int((len(arr))/2)
+print(arr[leng])
