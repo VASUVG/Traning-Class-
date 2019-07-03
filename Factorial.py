@@ -1,2 +1,2 @@
-def factorial(v): 
-    return 1 if (v==1 or v==0) else v * factorial(v - 1);  
+def factorial(d): 
+    return 1 if (d==1 or d==0) else d * factorial(d - 1);  
