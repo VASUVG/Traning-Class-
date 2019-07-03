@@ -1,3 +1,3 @@
-arr=int(input())
- vd=list(map(int,input().split()[:arr]))
-   print(max(vd))
+o=int(input())
+p=list(map(int,input().split()))
+print(min(p))
