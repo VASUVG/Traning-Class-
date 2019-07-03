@@ -1,2 +1,2 @@
-v=input()
-print(v.count(".")+1
+vasu=input()
+print(vasu.count(".")+1)
