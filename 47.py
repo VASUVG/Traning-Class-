@@ -1,3 +1,3 @@
-vasu=int(input())
-devan=list(map(int,input().split()))
-print(min(kfc),max(kfc))
+vas=int(input())
+deva=list(map(int,input().split()))
+print(min(erc),max(erc))
