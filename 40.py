@@ -1,7 +1,7 @@
-cat=int(input())
-sm1,sm2=0,1
-print(sm2,end=" ")
-for i in range(1,cat):
- sm3=sm1+sm2
- print(sm3,end=" ")
-sm1,sm2=sm2,sm3
+vsm=int(input())
+vas,deva=0,1
+print(deva,end=" ")
+for i in range(1,vsm):
+  faboot=vas+deva
+  print(faboot,end=" ")
+vas,deva=devat,faboot
