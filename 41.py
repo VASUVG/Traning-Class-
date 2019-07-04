@@ -1,4 +1,4 @@
-vs,vg=int(input().split())
-vg=int(vg)
-for i in range(vg):
- print(vs)
+nz,num=int(input().split())
+num=int(num)
+for i in range (num):
+ print(nz)
