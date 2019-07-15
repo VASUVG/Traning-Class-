@@ -1,2 +1,2 @@
-vg=input()
-print(vg)
+sstring=input()
+print(sstring)
