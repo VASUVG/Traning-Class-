@@ -1,0 +1,5 @@
+import math
+v,s=map(int,input().split())
+z=math.gcd(v,s)
+lcm=(v*s)/z
+print(math.ceil(lcm))
